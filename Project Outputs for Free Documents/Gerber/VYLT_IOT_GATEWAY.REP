@@ -1,0 +1,180 @@
+*************************************************************
+FileName = VYLT_IOT_GATEWAY.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : VYLT_IOT_GATEWAY.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : VYLT_IOT_GATEWAY.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : VYLT_IOT_GATEWAY.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : VYLT_IOT_GATEWAY.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : VYLT_IOT_GATEWAY.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : VYLT_IOT_GATEWAY.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : VYLT_IOT_GATEWAY.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : L4
+      File : VYLT_IOT_GATEWAY.GBL
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : L3
+      File : VYLT_IOT_GATEWAY.G2
+
+    Adding Layer      : L3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : VYLT_IOT_GATEWAY.G1
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : L1
+      File : VYLT_IOT_GATEWAY.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : VYLT_IOT_GATEWAY.GM
+
+
+Used DCodes :
+    D35
+*************************************************************
+

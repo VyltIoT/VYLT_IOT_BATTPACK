@@ -1,0 +1,27 @@
+Added Component: Designator=BAT1(18650_SMD_BATT_HOLDER)
+Added Component: Designator=BAT2(18650_SMD_BATT_HOLDER)
+Added Component: Designator=BAT3(18650_SMD_BATT_HOLDER)
+Added Component: Designator=BAT4(18650_SMD_BATT_HOLDER)
+Added Pin To Net: NetName=NetBAT1_1 Pin=BAT1-1
+Added Net: Name=NetBAT1_1
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT1-2
+Added Net: Name=NetBAT1_2
+Added Pin To Net: NetName=NetBAT2_1 Pin=BAT2-1
+Added Net: Name=NetBAT2_1
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-2
+Added Net: Name=NetBAT2_2
+Added Pin To Net: NetName=NetBAT3_1 Pin=BAT3-1
+Added Net: Name=NetBAT3_1
+Added Pin To Net: NetName=NetBAT3_2 Pin=BAT3-2
+Added Net: Name=NetBAT3_2
+Added Pin To Net: NetName=NetBAT4_1 Pin=BAT4-1
+Added Net: Name=NetBAT4_1
+Added Pin To Net: NetName=NetBAT4_2 Pin=BAT4-2
+Added Net: Name=NetBAT4_2
+Added Class: Name=POWER
+Added Class: Name=BAT1_Nets
+Added Class: Name=BAT2_Nets
+Added Class: Name=BAT3_Nets
+Added Class: Name=BAT4_Nets
+Add Differential Pair: Net(s) Not Found in Differential Pair USB : Positive Net [USB_P] & Negative Net [USB_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair X32 : Positive Net [X32_P] & Negative Net [X32_N] in current PCB document
