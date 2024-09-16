@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=R11_Nets Member=NetR11_1
+Removed Member From Class: ClassName=R11_Nets Member=NetR11_2
+Removed Member From Class: ClassName=R12_Nets Member=NetR12_1
+Removed Member From Class: ClassName=R12_Nets Member=NetR12_2
+Added Pin To Net: NetName=NetBAT2_4 Pin=R11-1
+Added Pin To Net: NetName=NetBAT1_2 Pin=R11-2
+Added Pin To Net: NetName=NetBAT2_4 Pin=R12-1
+Added Pin To Net: NetName=NetBAT1_2 Pin=R12-2
+Added Member To Class: ClassName=R11_Nets Member=Wire NetBAT1_2
+Added Member To Class: ClassName=R12_Nets Member=Wire NetBAT1_2
+Added Member To Class: ClassName=R11_Nets Member=Wire NetBAT2_4
+Added Member To Class: ClassName=R12_Nets Member=Wire NetBAT2_4

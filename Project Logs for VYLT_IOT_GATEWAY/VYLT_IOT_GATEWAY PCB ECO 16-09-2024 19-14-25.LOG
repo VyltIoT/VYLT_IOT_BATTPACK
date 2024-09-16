@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=R8_Nets Member=NetR8_1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-1
+Added Member To Class: ClassName=R8_Nets Member=Wire NetR7_1

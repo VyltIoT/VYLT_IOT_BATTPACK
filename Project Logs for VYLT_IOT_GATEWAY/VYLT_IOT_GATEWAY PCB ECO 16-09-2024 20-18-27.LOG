@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=BAT1_Nets Member=NetBAT1_3
+Removed Member From Class: ClassName=R1_Nets Member=NetBAT1_3
+Removed Member From Class: ClassName=R2_Nets Member=NetBAT1_3
+Removed Member From Class: ClassName=R7_Nets Member=NetR7_1
+Removed Member From Class: ClassName=R8_Nets Member=NetR7_1
+Removed Member From Class: ClassName=R13_Nets Member=NetR7_1
+Removed Member From Class: ClassName=R14_Nets Member=NetR7_1
+Change Net Name : Old Net Name=NetBAT1_3 New Net Name=VBUS_P
+Change Net Name : Old Net Name=NetR7_1 New Net Name=VBUS_N
+Added Member To Class: ClassName=R7_Nets Member=Wire VBUS_N
+Added Member To Class: ClassName=R8_Nets Member=Wire VBUS_N
+Added Member To Class: ClassName=R13_Nets Member=Wire VBUS_N
+Added Member To Class: ClassName=R14_Nets Member=Wire VBUS_N
+Added Member To Class: ClassName=BAT1_Nets Member=Wire VBUS_P
+Added Member To Class: ClassName=R1_Nets Member=Wire VBUS_P
+Added Member To Class: ClassName=R2_Nets Member=Wire VBUS_P

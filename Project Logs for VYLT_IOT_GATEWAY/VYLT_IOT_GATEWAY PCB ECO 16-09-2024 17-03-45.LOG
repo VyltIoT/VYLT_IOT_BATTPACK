@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=BAT1 Old Footprint=18650_SMD_BATT_HOLDER New Footprint=1043P
+Change Component Footprint: Designator=BAT2 Old Footprint=18650_SMD_BATT_HOLDER New Footprint=1043P
+Change Component Footprint: Designator=BAT3 Old Footprint=18650_SMD_BATT_HOLDER New Footprint=1043P
+Change Component Footprint: Designator=BAT4 Old Footprint=18650_SMD_BATT_HOLDER New Footprint=1043P
+Change Component Comment : Designator=BAT1 Old Comment=18650_SMD_BATT_HOLDER New Comment=1043P
+Change Component Comment : Designator=BAT2 Old Comment=18650_SMD_BATT_HOLDER New Comment=1043P
+Change Component Comment : Designator=BAT3 Old Comment=18650_SMD_BATT_HOLDER New Comment=1043P
+Change Component Comment : Designator=BAT4 Old Comment=18650_SMD_BATT_HOLDER New Comment=1043P

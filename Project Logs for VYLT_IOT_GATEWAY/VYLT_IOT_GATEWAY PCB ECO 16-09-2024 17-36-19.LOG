@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=POWER Member=BAT3
+Removed Member From Class: ClassName=POWER Member=BAT4
+Change Component Footprint: Designator=BAT1 Old Footprint=1043P New Footprint=1049
+Change Component Footprint: Designator=BAT2 Old Footprint=1043P New Footprint=1049
+Change Component Comment : Designator=BAT1 Old Comment=1043P New Comment=1049
+Change Component Comment : Designator=BAT2 Old Comment=1043P New Comment=1049
+Change component parameters: Designator = "BAT1" ("BAT1"); Footprint = "1043P"; UniqueID = "\CPOISSFX" ("\CPOISSFX")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1049"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "BAT2" ("BAT2"); Footprint = "1043P"; UniqueID = "\FCUWHJUK" ("\FCUWHJUK")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1049"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBAT1_3 Pin=BAT1-3
+Added Net: Name=NetBAT1_3
+Added Pin To Net: NetName=NetBAT1_4 Pin=BAT1-4
+Added Net: Name=NetBAT1_4
+Added Pin To Net: NetName=NetBAT2_3 Pin=BAT2-3
+Added Net: Name=NetBAT2_3
+Added Pin To Net: NetName=NetBAT2_4 Pin=BAT2-4
+Added Net: Name=NetBAT2_4
+Added Member To Class: ClassName=BAT1_Nets Member=Wire NetBAT1_3
+Added Member To Class: ClassName=BAT1_Nets Member=Wire NetBAT1_4
+Added Member To Class: ClassName=BAT2_Nets Member=Wire NetBAT2_3
+Added Member To Class: ClassName=BAT2_Nets Member=Wire NetBAT2_4
