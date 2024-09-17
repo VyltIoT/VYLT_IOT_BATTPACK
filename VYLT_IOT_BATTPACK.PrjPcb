@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XVGXGPOR
 
 [Document12]
-DocumentPath=VYLT_IOT_GATEWAY.PcbDoc
+DocumentPath=VYLT_IOT_BATTPACK.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -322,7 +322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EZRHYYAS
 
 [Document17]
-DocumentPath=VYLT_IOT_GATEWAY.OutJob
+DocumentPath=VYLT_IOT_BATTPACK.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

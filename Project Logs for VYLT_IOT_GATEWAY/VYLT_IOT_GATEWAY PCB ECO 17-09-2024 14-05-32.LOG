@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PACK_N Pin=BAT1-1
+Removed Pin From Net: NetName=PACK_MID Pin=BAT1-2
+Removed Pin From Net: NetName=PACK_N Pin=BAT1-3
+Removed Pin From Net: NetName=PACK_P Pin=BAT2-2
+Removed Pin From Net: NetName=PACK_MID Pin=BAT2-3
+Removed Pin From Net: NetName=PACK_P Pin=BAT2-4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Added Pin To Net: NetName=PACK_MID Pin=BAT1-1
+Added Pin To Net: NetName=PACK_N Pin=BAT1-2
+Added Pin To Net: NetName=PACK_P Pin=BAT1-3
+Added Pin To Net: NetName=PACK_N Pin=BAT2-2
+Added Pin To Net: NetName=PACK_P Pin=BAT2-3
+Added Pin To Net: NetName=PACK_MID Pin=BAT2-4
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR1_2
+Change Net Color : Old Net Color=RGB(147, 204, 252) New Net Color=Default
+Added Class: Name=R1_Nets
+Added Member To Class: ClassName=BAT2_Nets Member=Wire PACK_N
+Added Member To Class: ClassName=BAT1_Nets Member=Wire PACK_P

@@ -1,0 +1,54 @@
+Removed Member From Class: ClassName=POWER Member=R1
+Removed Member From Class: ClassName=POWER Member=R2
+Removed Member From Class: ClassName=POWER Member=R3
+Removed Member From Class: ClassName=POWER Member=R4
+Removed Member From Class: ClassName=POWER Member=R5
+Removed Member From Class: ClassName=POWER Member=R6
+Removed Member From Class: ClassName=POWER Member=R7
+Removed Member From Class: ClassName=POWER Member=R8
+Removed Member From Class: ClassName=POWER Member=R9
+Removed Member From Class: ClassName=POWER Member=R10
+Removed Member From Class: ClassName=POWER Member=R11
+Removed Member From Class: ClassName=POWER Member=R12
+Removed Member From Class: ClassName=POWER Member=R13
+Removed Member From Class: ClassName=POWER Member=R14
+Removed Member From Class: ClassName=POWER Member=R15
+Removed Member From Class: ClassName=POWER Member=R16
+Removed Member From Class: ClassName=BAT1_Nets Member=NetBAT1_1
+Removed Member From Class: ClassName=BAT1_Nets Member=NetBAT1_2
+Removed Member From Class: ClassName=BAT1_Nets Member=NetBAT1_4
+Removed Member From Class: ClassName=BAT2_Nets Member=NetBAT2_1
+Removed Member From Class: ClassName=BAT2_Nets Member=NetBAT2_2
+Removed Member From Class: ClassName=BAT2_Nets Member=NetBAT2_3
+Removed Member From Class: ClassName=BAT2_Nets Member=NetBAT2_4
+Removed Member From Class: ClassName=BAT1_Nets Member=VBUS_P
+Added Component: Designator=R?(RESC3246X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RCL12180000Z0EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rcl12180000z0ek/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20046/rcle3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCL12180000Z0EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-RCL12180000Z0EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/RCL12180000Z0EK?qs=soOxy1Y66HPmY85O3ZwTkQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=PACK_MID Pin=BAT1-2
+Added Pin To Net: NetName=PACK_MID Pin=BAT1-4
+Added Pin To Net: NetName=PACK_MID Pin=BAT2-1
+Added Pin To Net: NetName=PACK_MID Pin=BAT2-3
+Added Net: Name=PACK_MID
+Added Pin To Net: NetName=PACK_N Pin=BAT1-1
+Added Pin To Net: NetName=PACK_N Pin=BAT1-3
+Added Net: Name=PACK_N
+Added Pin To Net: NetName=PACK_P Pin=BAT2-2
+Added Pin To Net: NetName=PACK_P Pin=BAT2-4
+Added Net: Name=PACK_P
+Added Class: Name=R?_Nets
+Added Member To Class: ClassName=POWER Member=Component R? RCL12180000Z0EK
+Added Member To Class: ClassName=BAT1_Nets Member=Wire PACK_MID
+Added Member To Class: ClassName=BAT2_Nets Member=Wire PACK_MID
+Added Member To Class: ClassName=BAT1_Nets Member=Wire PACK_N
+Added Member To Class: ClassName=BAT2_Nets Member=Wire PACK_P
