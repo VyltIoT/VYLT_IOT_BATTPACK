@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VIN Pin=R2-1
+Removed Pin From Net: NetName=MP2672_LDO Pin=R5-2
+Removed Member From Class: ClassName=POWER Member=R2
+Removed Member From Class: ClassName=POWER Member=R5
+Removed Member From Class: ClassName=U1_Nets Member=P\G\O\O\D\
+Removed Member From Class: ClassName=U1_Nets Member=S\T\A\T\
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Net: Name=NetU1_16
+Added Pin To Net: NetName=NetU1_18 Pin=U1-18
+Added Net: Name=NetU1_18
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_16
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_18

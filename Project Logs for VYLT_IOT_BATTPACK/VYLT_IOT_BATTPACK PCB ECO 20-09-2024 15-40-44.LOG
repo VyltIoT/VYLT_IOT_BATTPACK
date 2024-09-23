@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=D1_Nets Member=VCC
+Removed Member From Class: ClassName=J1_Nets Member=VCC
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Net Name : Old Net Name=NetSW?_3 New Net Name=NetSW1_3
+Change Net Name : Old Net Name=NetSW?_4 New Net Name=NetSW1_4
+Change Net Name : Old Net Name=NetSW?_5 New Net Name=NetSW1_5
+Added Class: Name=J2_Nets
+Added Class: Name=SW1_Nets
+Added Member To Class: ClassName=D1_Nets Member=Wire VIN
+Added Member To Class: ClassName=J1_Nets Member=Wire VIN

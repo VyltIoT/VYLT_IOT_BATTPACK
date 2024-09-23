@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=VIN Pin=D1-1
+Removed Pin From Net: NetName=VIN Pin=J1-1
+Removed Member From Class: ClassName=C4_Nets Member=VIN
+Removed Member From Class: ClassName=C5_Nets Member=VIN
+Removed Member From Class: ClassName=L1_Nets Member=VIN
+Removed Member From Class: ClassName=R6_Nets Member=VIN
+Removed Member From Class: ClassName=U1_Nets Member=VIN
+Added Component: Designator=J?(2PX1R)
+Added Component: Designator=SW?(3PIN_SPDT_TH_RA)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1825232-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=VIN Pin=SW?-2
+Change Net Name : Old Net Name=VIN New Net Name=VCC
+Added Pin To Net: NetName=NetSW?_3 Pin=SW?-3
+Added Net: Name=NetSW?_3
+Added Pin To Net: NetName=NetSW?_4 Pin=SW?-4
+Added Net: Name=NetSW?_4
+Added Pin To Net: NetName=NetSW?_5 Pin=SW?-5
+Added Net: Name=NetSW?_5
+Added Pin To Net: NetName=VIN Pin=D1-1
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=VIN Pin=J?-1
+Added Pin To Net: NetName=VIN Pin=SW?-1
+Added Net: Name=VIN
+Change Class Name : Old Net Name=C3_Nets New Net Name=J?_Nets
+Added Class: Name=C3_Nets
+Added Class: Name=SW?_Nets
+Added Member To Class: ClassName=POWER Member=Component J? 2PX1R
+Added Member To Class: ClassName=POWER Member=Component SW? ERP_110-4
+Added Member To Class: ClassName=C4_Nets Member=Wire VCC
+Added Member To Class: ClassName=C5_Nets Member=Wire VCC
+Added Member To Class: ClassName=L1_Nets Member=Wire VCC
+Added Member To Class: ClassName=R6_Nets Member=Wire VCC
+Added Member To Class: ClassName=U1_Nets Member=Wire VCC
+Added Rule: Name=Schematic Supply Nets_2

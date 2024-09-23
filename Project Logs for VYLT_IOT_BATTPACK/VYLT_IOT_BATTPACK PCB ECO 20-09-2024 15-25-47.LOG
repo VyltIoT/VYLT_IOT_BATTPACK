@@ -1,0 +1,17 @@
+Added Component: Designator=D1(B560C-13-F)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B560C-13-F"; VariantName = "[No Variations]"
+Added Component: Designator=J1(KLDX-0202-AC)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Class: Name=D1_Nets
+Added Class: Name=J1_Nets
+Added Member To Class: ClassName=POWER Member=Component D1 ERP_104-3
+Added Member To Class: ClassName=POWER Member=Component J1 KLDX-0202-AC

@@ -1,0 +1,8 @@
+Added Component: Designator=ZD1(1SMA5919)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1SMA5919BT3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5V6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MP2672_LDO Pin=ZD1-1
+Added Pin To Net: NetName=GND Pin=ZD1-2
+Added Class: Name=ZD1_Nets
+Added Member To Class: ClassName=POWER Member=Component ZD1 1SMA5919

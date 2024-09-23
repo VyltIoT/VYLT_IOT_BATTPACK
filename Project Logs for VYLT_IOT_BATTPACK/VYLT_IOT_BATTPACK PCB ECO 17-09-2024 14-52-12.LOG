@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=BAT1_Nets Member=PACK_N
+Removed Member From Class: ClassName=BAT2_Nets Member=PACK_N
+Change Net Name : Old Net Name=PACK_N New Net Name=GND
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(151, 153, 250)
+Added Member To Class: ClassName=BAT1_Nets Member=Wire GND
+Added Member To Class: ClassName=BAT2_Nets Member=Wire GND
+Added Rule: Name=Schematic Supply Nets_1

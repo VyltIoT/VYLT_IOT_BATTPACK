@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=R8_Nets Member=NetR8_2
+Removed Member From Class: ClassName=U1_Nets Member=NetR8_2
+Removed Member From Class: ClassName=R9_Nets Member=NetR9_2
+Removed Member From Class: ClassName=U1_Nets Member=NetR9_2
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_16
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_18
+Added Component: Designator=J3(2PX1R)
+Change Net Name : Old Net Name=NetR8_2 New Net Name=MP2672_SDA
+Change Net Name : Old Net Name=NetR9_2 New Net Name=MP2672_SCL
+Added Pin To Net: NetName=MP2672_NACK Pin=J3-1
+Added Pin To Net: NetName=MP2672_NACK Pin=U1-18
+Added Net: Name=MP2672_NACK
+Added Pin To Net: NetName=MP2672_NSTAT Pin=J3-2
+Added Pin To Net: NetName=MP2672_NSTAT Pin=U1-16
+Added Net: Name=MP2672_NSTAT
+Added Class: Name=J3_Nets
+Added Member To Class: ClassName=POWER Member=Component J3 2PX1R
+Added Member To Class: ClassName=U1_Nets Member=Wire MP2672_NACK
+Added Member To Class: ClassName=U1_Nets Member=Wire MP2672_NSTAT
+Added Member To Class: ClassName=R9_Nets Member=Wire MP2672_SCL
+Added Member To Class: ClassName=U1_Nets Member=Wire MP2672_SCL
+Added Member To Class: ClassName=R8_Nets Member=Wire MP2672_SDA
+Added Member To Class: ClassName=U1_Nets Member=Wire MP2672_SDA
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_7

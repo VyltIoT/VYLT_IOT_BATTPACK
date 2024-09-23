@@ -1,0 +1,12 @@
+Added Component: Designator=C13(CAP_6.3_7.7)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6.3x7.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MP2672_VOUT Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Class: Name=C13_Nets
+Added Member To Class: ClassName=POWER Member=Component C13 ERP_102-2

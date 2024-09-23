@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=J1_Nets Member=VCC
+Removed Member From Class: ClassName=J2_Nets Member=VCC
+Added Component: Designator=C12(CAP_6.3_7.7)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6.3x7.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Change Class Name : Old Net Name=D1_Nets New Net Name=C12_Nets
+Added Class: Name=D1_Nets
+Added Member To Class: ClassName=POWER Member=Component C12 ERP_102-2
+Added Member To Class: ClassName=J1_Nets Member=Wire VIN
+Added Member To Class: ClassName=J2_Nets Member=Wire VIN
+Added Member To Class: ClassName=SW1_Nets Member=Wire VIN
