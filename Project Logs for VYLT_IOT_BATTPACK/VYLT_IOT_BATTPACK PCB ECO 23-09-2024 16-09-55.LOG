@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=3V7 Pin=J4-3
+Removed Pin From Net: NetName=3V7 Pin=J4-4
+Removed Pin From Net: NetName=3V3 Pin=J4-5
+Removed Pin From Net: NetName=3V3 Pin=J4-6
+Removed Pin From Net: NetName=12V0 Pin=J5-1
+Removed Pin From Net: NetName=12V0 Pin=J5-2
+Removed Pin From Net: NetName=3V7 Pin=J5-4
+Removed Pin From Net: NetName=3V3 Pin=J5-5
+Removed Pin From Net: NetName=3V3 Pin=J5-6
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J7-3
+Removed Member From Class: ClassName=J4_Nets Member=3V3
+Removed Member From Class: ClassName=J5_Nets Member=3V3
+Removed Member From Class: ClassName=J4_Nets Member=3V7
+Removed Member From Class: ClassName=J5_Nets Member=12V0
+Added Component: Designator=J8(6PX1R_M_STK20)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "77311-426-06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(6PX1R_M_STK20)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "77311-426-06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(6PX1R_M_STK20)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "77311-426-06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V0 Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=3V7 Pin=J5-1
+Added Pin To Net: NetName=3V7 Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J5-6
+Added Pin To Net: NetName=3V3 Pin=J7-1
+Added Pin To Net: NetName=3V3 Pin=J7-2
+Added Pin To Net: NetName=3V3 Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=GND Pin=J8-6
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-3
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=GND Pin=J9-5
+Added Pin To Net: NetName=GND Pin=J9-6
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-4
+Added Pin To Net: NetName=GND Pin=J10-5
+Added Pin To Net: NetName=GND Pin=J10-6
+Change Class Name : Old Net Name=J7_Nets New Net Name=J8_Nets
+Added Class: Name=J7_Nets
+Added Class: Name=J9_Nets
+Added Class: Name=J10_Nets
+Added Member To Class: ClassName=POWER Member=Component J8 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J9 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J10 6PX1R_M
+Added Member To Class: ClassName=J4_Nets Member=Wire GND
+Added Member To Class: ClassName=J5_Nets Member=Wire GND

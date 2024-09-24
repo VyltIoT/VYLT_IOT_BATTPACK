@@ -1,0 +1,72 @@
+Change Component DesignItemId : Designator=J4 Old DesignItemId=6PX1R_M New DesignItemId=6PX1R_F
+Change Component DesignItemId : Designator=J5 Old DesignItemId=6PX1R_M New DesignItemId=6PX1R_F
+Change Component DesignItemId : Designator=J6 Old DesignItemId=6PX1R_M New DesignItemId=6PX1R_F
+Change Component DesignItemId : Designator=J7 Old DesignItemId=6PX1R_M New DesignItemId=6PX1R_F
+Change Component DesignItemId : Designator=J8 Old DesignItemId=6PX1R_M New DesignItemId=6PX1R_F
+Change Component DesignItemId : Designator=J9 Old DesignItemId=6PX1R_M New DesignItemId=6PX1R_F
+Change Component DesignItemId : Designator=J10 Old DesignItemId=6PX1R_M New DesignItemId=6PX1R_F
+Change Component DesignItemId : Designator=J11 Old DesignItemId=6PX1R_M New DesignItemId=6PX1R_F
+Change Component DesignItemId : Designator=J12 Old DesignItemId=6PX1R_M New DesignItemId=6PX1R_F
+Change Component Footprint: Designator=J4 Old Footprint=6PX1R_M_STK20 New Footprint=6PX1R_F
+Change Component Footprint: Designator=J5 Old Footprint=6PX1R_M_STK20 New Footprint=6PX1R_F
+Change Component Footprint: Designator=J6 Old Footprint=6PX1R_M_STK20 New Footprint=6PX1R_F
+Change Component Footprint: Designator=J7 Old Footprint=6PX1R_M_STK20 New Footprint=6PX1R_F
+Change Component Footprint: Designator=J8 Old Footprint=6PX1R_M_STK20 New Footprint=6PX1R_F
+Change Component Footprint: Designator=J9 Old Footprint=6PX1R_M_STK20 New Footprint=6PX1R_F
+Change Component Footprint: Designator=J10 Old Footprint=6PX1R_M_STK20 New Footprint=6PX1R_F
+Change Component Footprint: Designator=J11 Old Footprint=6PX1R_M_STK20 New Footprint=6PX1R_F
+Change Component Footprint: Designator=J12 Old Footprint=6PX1R_M_STK20 New Footprint=6PX1R_F
+Change Component Comment : Designator=J4 Old Comment=6PX1R_M New Comment=ERP_148-2
+Change Component Comment : Designator=J5 Old Comment=6PX1R_M New Comment=ERP_148-2
+Change Component Comment : Designator=J6 Old Comment=6PX1R_M New Comment=ERP_148-2
+Change Component Comment : Designator=J7 Old Comment=6PX1R_M New Comment=ERP_148-2
+Change Component Comment : Designator=J8 Old Comment=6PX1R_M New Comment=ERP_148-2
+Change Component Comment : Designator=J9 Old Comment=6PX1R_M New Comment=ERP_148-2
+Change Component Comment : Designator=J10 Old Comment=6PX1R_M New Comment=ERP_148-2
+Change Component Comment : Designator=J11 Old Comment=6PX1R_M New Comment=ERP_148-2
+Change Component Comment : Designator=J12 Old Comment=6PX1R_M New Comment=ERP_148-2
+Change Component Description : Designator=J4 Old Description=6PX1R Male Header New Description=6PX1R Female Header
+Change Component Description : Designator=J5 Old Description=6PX1R Male Header New Description=6PX1R Female Header
+Change Component Description : Designator=J6 Old Description=6PX1R Male Header New Description=6PX1R Female Header
+Change Component Description : Designator=J7 Old Description=6PX1R Male Header New Description=6PX1R Female Header
+Change Component Description : Designator=J8 Old Description=6PX1R Male Header New Description=6PX1R Female Header
+Change Component Description : Designator=J9 Old Description=6PX1R Male Header New Description=6PX1R Female Header
+Change Component Description : Designator=J10 Old Description=6PX1R Male Header New Description=6PX1R Female Header
+Change Component Description : Designator=J11 Old Description=6PX1R Male Header New Description=6PX1R Female Header
+Change Component Description : Designator=J12 Old Description=6PX1R Male Header New Description=6PX1R Female Header
+Change component parameters: Designator = "J4" ("J4"); Footprint = "6PX1R_M_STK20"; UniqueID = "\AFNDJCYM" ("\AFNDJCYM")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "6PX1R_M_STK20"; UniqueID = "\IDJDCCKL" ("\IDJDCCKL")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "6PX1R_M_STK20"; UniqueID = "\NUIDKNMU" ("\NUIDKNMU")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "6PX1R_M_STK20"; UniqueID = "\CTWTFQGR" ("\CTWTFQGR")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "6PX1R_M_STK20"; UniqueID = "\HIMNESQV" ("\HIMNESQV")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9" ("J9"); Footprint = "6PX1R_M_STK20"; UniqueID = "\GZVKMAFE" ("\GZVKMAFE")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J10" ("J10"); Footprint = "6PX1R_M_STK20"; UniqueID = "\BAFOFLEB" ("\BAFOFLEB")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J11" ("J11"); Footprint = "6PX1R_M_STK20"; UniqueID = "\MTRXPMWY" ("\MTRXPMWY")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J12" ("J12"); Footprint = "6PX1R_M_STK20"; UniqueID = "\HAZKCIFJ" ("\HAZKCIFJ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

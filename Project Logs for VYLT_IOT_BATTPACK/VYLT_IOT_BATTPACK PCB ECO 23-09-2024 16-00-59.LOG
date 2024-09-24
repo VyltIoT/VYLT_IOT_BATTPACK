@@ -1,0 +1,28 @@
+Added Component: Designator=J4(6PX1R_M)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "77311-426-06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(6PX1R_M)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "77311-426-06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J4-5
+Added Pin To Net: NetName=3V3 Pin=J4-6
+Added Pin To Net: NetName=3V3 Pin=J5-5
+Added Pin To Net: NetName=3V3 Pin=J5-6
+Added Pin To Net: NetName=3V7 Pin=J4-3
+Added Pin To Net: NetName=3V7 Pin=J4-4
+Added Pin To Net: NetName=3V7 Pin=J5-3
+Added Pin To Net: NetName=3V7 Pin=J5-4
+Added Net: Name=3V7
+Added Pin To Net: NetName=12V0 Pin=J4-1
+Added Pin To Net: NetName=12V0 Pin=J4-2
+Added Pin To Net: NetName=12V0 Pin=J5-1
+Added Pin To Net: NetName=12V0 Pin=J5-2
+Added Net: Name=12V0
+Added Class: Name=J4_Nets
+Added Class: Name=J5_Nets
+Added Member To Class: ClassName=POWER Member=Component J4 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J5 6PX1R_M
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_10

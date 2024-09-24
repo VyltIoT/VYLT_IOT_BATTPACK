@@ -1,0 +1,12 @@
+Added Component: Designator=J12(6PX1R_M_STK20)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "77311-426-06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MP2672_LDO Pin=J12-1
+Added Pin To Net: NetName=MP2672_SDA Pin=J12-2
+Added Pin To Net: NetName=MP2672_SCL Pin=J12-3
+Added Pin To Net: NetName=MP2672_NACK Pin=J12-4
+Added Pin To Net: NetName=MP2672_NSTAT Pin=J12-5
+Added Pin To Net: NetName=ADAP_DET_LV Pin=J12-6
+Added Class: Name=J12_Nets
+Added Member To Class: ClassName=POWER Member=Component J12 6PX1R_M

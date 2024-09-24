@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MP2672_SDA Pin=J12-2
+Removed Pin From Net: NetName=MP2672_SCL Pin=J12-3
+Added Pin To Net: NetName=MP2672_SCL Pin=J12-2
+Added Pin To Net: NetName=MP2672_SDA Pin=J12-3
