@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MP2672_LDO Pin=J12-1
+Removed Pin From Net: NetName=ADAP_DET_LV Pin=J12-2
+Added Pin To Net: NetName=ADAP_DET_LV Pin=J12-1
+Added Pin To Net: NetName=MP2672_LDO Pin=J12-2

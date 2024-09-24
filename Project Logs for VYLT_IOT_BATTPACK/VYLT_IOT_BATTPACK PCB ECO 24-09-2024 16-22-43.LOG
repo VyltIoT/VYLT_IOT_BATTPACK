@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=J4_Nets Member=NetJ7_2
+Removed Member From Class: ClassName=J5_Nets Member=NetJ7_2
+Removed Member From Class: ClassName=J4_Nets Member=NetJ7_5
+Removed Member From Class: ClassName=J5_Nets Member=NetJ7_5
+Added Member To Class: ClassName=J4_Nets Member=Wire 3V7
+Added Member To Class: ClassName=J5_Nets Member=Wire 3V7
+Added Member To Class: ClassName=J4_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J5_Nets Member=Wire 12V0

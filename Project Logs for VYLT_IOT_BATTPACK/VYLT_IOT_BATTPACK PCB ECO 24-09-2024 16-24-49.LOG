@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=J4_Nets Member=NetJ7_2
+Removed Member From Class: ClassName=J5_Nets Member=NetJ7_2
+Removed Member From Class: ClassName=J7_Nets Member=NetJ7_2
+Removed Member From Class: ClassName=J11_Nets Member=NetJ7_2
+Removed Member From Class: ClassName=J4_Nets Member=NetJ7_5
+Removed Member From Class: ClassName=J5_Nets Member=NetJ7_5
+Removed Member From Class: ClassName=J7_Nets Member=NetJ7_5
+Removed Member From Class: ClassName=J11_Nets Member=NetJ7_5
+Added Pin To Net: NetName=MP2672_VOUT Pin=J7-2
+Added Pin To Net: NetName=MP2672_VOUT Pin=J7-3
+Added Pin To Net: NetName=MP2672_VOUT Pin=J11-2
+Added Pin To Net: NetName=MP2672_VOUT Pin=J11-3
+Added Pin To Net: NetName=NetJ7_5 Pin=R5-2
+Change Net Name : Old Net Name=NetJ7_5 New Net Name=3V3
+Added Member To Class: ClassName=J7_Nets Member=Wire 3V3
+Added Member To Class: ClassName=J11_Nets Member=Wire 3V3
+Added Member To Class: ClassName=J4_Nets Member=Wire 3V7
+Added Member To Class: ClassName=J5_Nets Member=Wire 3V7
+Added Member To Class: ClassName=J4_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J5_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J7_Nets Member=Wire MP2672_VOUT
+Added Member To Class: ClassName=J11_Nets Member=Wire MP2672_VOUT
