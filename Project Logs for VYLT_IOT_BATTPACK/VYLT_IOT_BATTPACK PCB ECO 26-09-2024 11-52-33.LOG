@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V8 Pin=J4-2
+Removed Pin From Net: NetName=3V8 Pin=J4-3
+Removed Pin From Net: NetName=3V8 Pin=J5-2
+Removed Pin From Net: NetName=3V8 Pin=J5-3
+Removed Member From Class: ClassName=J4_Nets Member=12V0
+Removed Member From Class: ClassName=J5_Nets Member=12V0
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=3V8 Pin=J4-5
+Added Pin To Net: NetName=3V8 Pin=J4-6
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=3V8 Pin=J5-5
+Added Pin To Net: NetName=3V8 Pin=J5-6
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=J5-2
+Added Net: Name=NetJ4_2
+Added Member To Class: ClassName=J4_Nets Member=Wire NetJ4_2
+Added Member To Class: ClassName=J5_Nets Member=Wire NetJ4_2

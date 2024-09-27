@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MP2672_VOUT Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Member From Class: ClassName=POWER Member=C18

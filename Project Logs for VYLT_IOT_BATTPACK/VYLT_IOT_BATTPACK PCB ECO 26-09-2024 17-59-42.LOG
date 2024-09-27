@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=D2 Old Footprint=LED_2SMD New Footprint=LED_1206_TOP
+Change Component Footprint: Designator=D3 Old Footprint=LED_2SMD New Footprint=LED_1206_TOP
+Change Component Footprint: Designator=D4 Old Footprint=LED_2SMD New Footprint=LED_1206_TOP
+Change Component Comment : Designator=D2 Old Comment=LED_2SMD New Comment=LED_1206_TOP
+Change Component Comment : Designator=D3 Old Comment=LED_2SMD New Comment=LED_1206_TOP
+Change Component Comment : Designator=D4 Old Comment=LED_2SMD New Comment=LED_1206_TOP
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED_2SMD"; UniqueID = "\RYASJXZY" ("\RYASJXZY")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "156120VS82500P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED_2SMD"; UniqueID = "\ZCCOCJEV" ("\ZCCOCJEV")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "156120VS82500P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LED_2SMD"; UniqueID = "\IFLVRRGK" ("\IFLVRRGK")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "156120VS82500P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"

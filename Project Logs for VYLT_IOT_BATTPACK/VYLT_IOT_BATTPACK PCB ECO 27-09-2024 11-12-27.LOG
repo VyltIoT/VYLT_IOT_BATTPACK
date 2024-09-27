@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MP2672_VOUT Pin=ZD1-1
+Removed Member From Class: ClassName=ZD1_Nets Member=MP2672_VOUT
+Added Pin To Net: NetName=5V0 Pin=ZD1-1
+Added Member To Class: ClassName=ZD1_Nets Member=Wire 5V0

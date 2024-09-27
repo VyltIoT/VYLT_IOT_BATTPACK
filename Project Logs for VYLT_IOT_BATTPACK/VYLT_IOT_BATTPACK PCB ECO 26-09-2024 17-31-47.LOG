@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C18 Old Footprint=CAPC1608X10N New Footprint=CAPMP3528X21L
+Change Component Footprint: Designator=C25 Old Footprint=CAPC1608X10N New Footprint=CAPMP3528X21L
+Change Component Comment : Designator=C18 Old Comment=MLCC_0805 New Comment=TANT_B
+Change Component Comment : Designator=C25 Old Comment=MLCC_0805 New Comment=TANT_B
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAPC1608X10N"; UniqueID = "\CJYRKAMT" ("\CJYRKAMT")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Vishay Sprague"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "293D684X9025B2WE3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.68uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPC1608X10N"; UniqueID = "\WZPCBIAP" ("\WZPCBIAP")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Vishay Sprague"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "593D225X9025B2WE3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"

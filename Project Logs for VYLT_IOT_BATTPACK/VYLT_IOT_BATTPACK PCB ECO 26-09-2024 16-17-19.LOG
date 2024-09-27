@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Class Name : Old Net Name=C?_Nets New Net Name=U5_Nets
+Added Class: Name=C18_Nets
+Added Class: Name=C25_Nets
+Added Member To Class: ClassName=POWER Member=Component C18 MLCC_0805
