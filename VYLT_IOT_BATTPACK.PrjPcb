@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RMQLIZES
 
 [Document5]
-DocumentPath=MCU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZAKXGIOA
-
-[Document6]
 DocumentPath=..\..\LIB\Inductor\FerriteBead.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGBDLQIQ
 
-[Document7]
+[Document6]
 DocumentPath=..\..\LIB\Inductor\FerriteBead.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XVGXGPOR
 
-[Document8]
+[Document7]
 DocumentPath=VYLT_IOT_BATTPACK.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOXQBUEI
 
-[Document9]
+[Document8]
 DocumentPath=VYLT_IOT_BATTPACK.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\..\LIB\IntegratedCircuits\BatteryCharger.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWKFMGEX
 
-[Document11]
+[Document10]
 DocumentPath=..\..\LIB\IntegratedCircuits\BatteryCharger.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SZJVUQIH
 
-[Document12]
+[Document11]
 DocumentPath=VYLT_IOT_BATTPACK.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
