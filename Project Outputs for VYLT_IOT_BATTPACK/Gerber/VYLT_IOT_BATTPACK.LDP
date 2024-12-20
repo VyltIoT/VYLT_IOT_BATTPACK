@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\VYLT_IOT_BATTPACK\VYLT_IOT_BATTPACK.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=vylt_iot_battpack.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=vylt_iot_battpack-rectholes.txt|DrillLayers=gtl,gbl
