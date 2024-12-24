@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=VIN Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=VIN Pin=SW1-1
+Removed Pin From Net: NetName=VCC Pin=SW1-2
+Removed Member From Class: ClassName=POWER Member=D1
+Removed Member From Class: ClassName=SW1_Nets Member=NetSW1_3
+Removed Member From Class: ClassName=SW1_Nets Member=NetSW1_5
+Change Component Footprint: Designator=SW1 Old Footprint=3PIN_SPDT_TH_RA New Footprint=PBH2U
+Change component parameters: Designator = "J1" ("J1"); Footprint = "KLDX-0202-AC"; UniqueID = "\IFHWMGXJ" ("\IFHWMGXJ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ST2001CO0701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "3PIN_SPDT_TH_RA"; UniqueID = "\LOUABVZB" ("\LOUABVZB")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ST2106CO3161"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F1(0679L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ST2103SD1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=F1-1
+Added Pin To Net: NetName=VIN Pin=SW1-2
+Added Pin To Net: NetName=VCC Pin=SW1-5
+Added Pin To Net: NetName=GND Pin=SW1-7
+Added Pin To Net: NetName=GND Pin=SW1-8
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Net: Name=NetSW1_1
+Added Pin To Net: NetName=PWR_IN Pin=F1-2
+Added Pin To Net: NetName=PWR_IN Pin=SW1-3
+Added Pin To Net: NetName=PWR_IN Pin=SW1-6
+Added Net: Name=PWR_IN
+Added Class: Name=F1_Nets
+Added Member To Class: ClassName=POWER Member=Component F1 0679L
+Added Member To Class: ClassName=SW1_Nets Member=Wire GND
+Added Member To Class: ClassName=SW1_Nets Member=Wire NetSW1_1
+Added Member To Class: ClassName=SW1_Nets Member=Wire PWR_IN
