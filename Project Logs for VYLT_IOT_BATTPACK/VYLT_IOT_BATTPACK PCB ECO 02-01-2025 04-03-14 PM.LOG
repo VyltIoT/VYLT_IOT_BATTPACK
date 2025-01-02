@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=C15_Nets Member=NetC15_1
+Removed Member From Class: ClassName=C16_Nets Member=NetC15_1
+Removed Member From Class: ClassName=D2_Nets Member=NetC15_1
+Removed Member From Class: ClassName=R19_Nets Member=NetC15_1
+Added Pin To Net: NetName=12V0 Pin=C15-1
+Added Pin To Net: NetName=12V0 Pin=C16-1
+Added Pin To Net: NetName=12V0 Pin=D2-1
+Added Pin To Net: NetName=12V0 Pin=R19-1
+Added Member To Class: ClassName=C15_Nets Member=Wire 12V0
+Added Member To Class: ClassName=C16_Nets Member=Wire 12V0
+Added Member To Class: ClassName=D2_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J3_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J4_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J5_Nets Member=Wire 12V0
+Added Member To Class: ClassName=R19_Nets Member=Wire 12V0

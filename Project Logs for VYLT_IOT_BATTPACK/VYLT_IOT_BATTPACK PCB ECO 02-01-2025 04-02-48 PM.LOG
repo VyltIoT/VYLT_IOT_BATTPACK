@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=NetC15_1 Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=J4-1
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=GND Pin=J4-4
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=3V3 Pin=J7-2
+Removed Pin From Net: NetName=3V3 Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=J11-1
+Removed Pin From Net: NetName=3V3 Pin=J11-2
+Removed Pin From Net: NetName=3V3 Pin=J11-3
+Removed Pin From Net: NetName=GND Pin=J11-4
+Removed Pin From Net: NetName=VIN Pin=Q1-3
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=VIN Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=VIN Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R21-2
+Removed Pin From Net: NetName=GND Pin=R23-2
+Removed Pin From Net: NetName=VIN Pin=ZD1-1
+Removed Pin From Net: NetName=GND Pin=ZD1-2
+Removed Member From Class: ClassName=POWER Member=D1
+Removed Member From Class: ClassName=POWER Member=D3
+Removed Member From Class: ClassName=POWER Member=J11
+Removed Member From Class: ClassName=POWER Member=Q1
+Removed Member From Class: ClassName=POWER Member=Q2
+Removed Member From Class: ClassName=POWER Member=Q3
+Removed Member From Class: ClassName=POWER Member=R16
+Removed Member From Class: ClassName=POWER Member=R17
+Removed Member From Class: ClassName=POWER Member=R18
+Removed Member From Class: ClassName=POWER Member=R20
+Removed Member From Class: ClassName=POWER Member=R21
+Removed Member From Class: ClassName=POWER Member=R23
+Removed Member From Class: ClassName=POWER Member=ZD1
+Removed Member From Class: ClassName=POWER Member=ZD2
+Removed Member From Class: ClassName=J7_Nets Member=3V3
+Removed Member From Class: ClassName=J7_Nets Member=3V8
+Removed Member From Class: ClassName=J4_Nets Member=5V0
+Removed Member From Class: ClassName=J5_Nets Member=5V0
+Removed Member From Class: ClassName=J4_Nets Member=GND
+Removed Member From Class: ClassName=J5_Nets Member=GND
+Removed Member From Class: ClassName=C11_Nets Member=NetC11_1
+Removed Member From Class: ClassName=C14_Nets Member=NetC11_1
+Removed Member From Class: ClassName=L2_Nets Member=NetC11_1
+Removed Member From Class: ClassName=U3_Nets Member=NetC11_1
+Added Component: Designator=J3(6PX1R_F)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MP2672_VOUT Pin=C11-1
+Added Pin To Net: NetName=MP2672_VOUT Pin=C14-1
+Added Pin To Net: NetName=5V0 Pin=J3-1
+Added Pin To Net: NetName=5V0 Pin=J3-2
+Added Pin To Net: NetName=5V0 Pin=J3-3
+Added Pin To Net: NetName=5V0 Pin=J3-4
+Added Pin To Net: NetName=5V0 Pin=J3-5
+Added Pin To Net: NetName=5V0 Pin=J3-6
+Added Pin To Net: NetName=5V0 Pin=J4-1
+Added Pin To Net: NetName=5V0 Pin=J4-2
+Added Pin To Net: NetName=5V0 Pin=J4-3
+Added Pin To Net: NetName=5V0 Pin=J4-4
+Added Pin To Net: NetName=5V0 Pin=J5-1
+Added Pin To Net: NetName=5V0 Pin=J5-2
+Added Pin To Net: NetName=5V0 Pin=J5-3
+Added Pin To Net: NetName=5V0 Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=MP2672_VOUT Pin=L2-1
+Added Pin To Net: NetName=MP2672_VOUT Pin=U3-2
+Added Pin To Net: NetName=MP2672_VOUT Pin=U3-4
+Change Net Name : Old Net Name=5V0 New Net Name=12V0
+Added Class: Name=J3_Nets
+Added Member To Class: ClassName=POWER Member=Component J3 ERP_148-2
+Added Member To Class: ClassName=J4_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J5_Nets Member=Wire 12V0
+Added Member To Class: ClassName=C11_Nets Member=Wire MP2672_VOUT
+Added Member To Class: ClassName=C14_Nets Member=Wire MP2672_VOUT
+Added Member To Class: ClassName=L2_Nets Member=Wire MP2672_VOUT
+Added Member To Class: ClassName=U3_Nets Member=Wire MP2672_VOUT
